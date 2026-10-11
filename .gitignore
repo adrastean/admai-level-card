@@ -1,0 +1,4 @@
+node_modules/
+data/rankData.json
+.env
+logs/
