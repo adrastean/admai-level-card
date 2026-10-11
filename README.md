@@ -280,3 +280,5 @@ logs/
 This project is available under the MIT License.
 
 You may use, modify and redistribute the code under the terms of the included `LICENSE` file.
+
+test
